@@ -1,4 +1,4 @@
-(defproject io.logicblocks/component.support "0.1.0-RC2"
+(defproject io.logicblocks/component.support "0.1.0-RC3"
   :description "Support functions for other logicblocks components."
   :url "https://github.com/logicblocks/component.support"
 
